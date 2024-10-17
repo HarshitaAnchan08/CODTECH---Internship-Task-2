@@ -1,11 +1,11 @@
-Name : HARSHITA ANCHAN 
-Company : CODTECH IT SOLUTIONS 
-ID : CTO8DS8243 
-Domain : FRONTEND WEB DEVELOPMENT 
-Duration : September 20th, 2024 to October 20th, 2024
+**Name :** HARSHITA ANCHAN 
+**Company :** CODTECH IT SOLUTIONS 
+**ID :** CTO8DS8243 
+**Domain :** FRONTEND WEB DEVELOPMENT 
+**Duration :** September 20th, 2024 to October 20th, 2024
 
-Project : TO-DO LIST APPLICATION 
-Technologies used : HTML, CSS, JAVASCRIPT
+**Project :** TO-DO LIST APPLICATION 
+**Technologies used :** HTML, CSS, JAVASCRIPT
 
 This is simple TO -DO List Application build using html, css and javascript. Also this project uses Local Storage to persist its tasks.
 
