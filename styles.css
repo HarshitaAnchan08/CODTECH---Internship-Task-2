@@ -1,0 +1,78 @@
+/*CSS Code for creating TO-DO LIST APPLICATION*/
+
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Volkhov:ital,wght@0,400;0,700;1,400;1,700&family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap');
+
+#TaskInp,button,#taskList{
+    font-size:18px;
+}
+
+#taskList{
+    font-family: "Vollkorn", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FEEE91;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 45px;
+      
+}
+
+#TaskInp{
+    border-radius: 5px;
+    font-family: "Vollkorn", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+
+}
+
+input[type="text"] {
+    width: calc(100% - 100px);
+    padding: 10px;
+}
+
+button {
+    padding: 15px;
+    background-color: #FEEC37;
+    border-radius: 10px;
+    font-family: "Vollkorn", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background: #FF9D3D;
+    margin: 5px 0;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+
+button.edit, button.delete {
+    margin-left: 10px;
+}
