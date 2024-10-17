@@ -14,3 +14,4 @@ It allows users to add, edit, and delete tasks.I have also implemented CRUD oper
 Here I have tried to utilize my skills to develop this project. I enjoyed a lot during the making of this project as I got introduced to some new topics which helped me to deepen my knowledge. This project was helpful in enhancing my knowledge.
 
 Below is the link to the screenshot of this TO-DO LIST APPLICATION Project-
+https://github.com/HarshitaAnchan08/CODTECH---Internship-Task-2/blob/60a2c48fd41d6871c580f4c7622b77dd8e3ee3b7/screenshot.PNG
